@@ -1,0 +1,29 @@
+{
+  "name": "script_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "js":"./index.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteTop/Script_Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeteTop/Script_Library/issues"
+  },
+  "homepage": "https://github.com/PeteTop/Script_Library#readme",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3"
+  }
+}
