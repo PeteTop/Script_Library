@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin":{
-    "js":"./index.sh"
+  "bin": {
+    "js": "./index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/PeteTop/Script_Library#readme",
   "dependencies": {
+    "shebang-loader": "0.0.1",
     "yargs": "^14.0.0"
   },
   "devDependencies": {
