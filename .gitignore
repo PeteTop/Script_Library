@@ -2,3 +2,4 @@ node_modules/
 src
 index.js
 webpack.config.js
+dist/start.js
