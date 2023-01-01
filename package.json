@@ -35,6 +35,6 @@
     "yargs": "^14.0.0"
   },
   "devDependencies": {
-    "webpack": "^4.39.3"
+    "webpack": "^5.75.0"
   }
 }
